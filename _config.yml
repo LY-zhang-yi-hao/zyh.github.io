@@ -105,3 +105,36 @@ deploy:
   type: git
   repo: https://github.com/zyh/zyh.github.io.git
   branch: main
+
+# RSS Feed
+## Docs: https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
+
+# Archive generator
+archive_generator:
+  per_page: 10
+  yearly: true
+  monthly: true
+  daily: false
+  order_by: -date
+
+# Category generator
+category_generator:
+  per_page: 10
+  order_by: -date
+
+# Tag generator
+tag_generator:
+  per_page: 10
+  order_by: -date
