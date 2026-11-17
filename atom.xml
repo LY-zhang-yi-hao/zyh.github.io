@@ -6,7 +6,7 @@
   <link href="https://ly-zhang-yi-hao.github.io/zyh.github.io/atom.xml" rel="self"/>
   
   <link href="https://ly-zhang-yi-hao.github.io/zyh.github.io/"/>
-  <updated>2025-09-26T13:15:30.625Z</updated>
+  <updated>2026-11-17T03:55:39.657Z</updated>
   <id>https://ly-zhang-yi-hao.github.io/zyh.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>记-第一次实习</title>
+    <link href="https://ly-zhang-yi-hao.github.io/zyh.github.io/2026/11/17/%E8%AE%B0-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%9E%E4%B9%A0/"/>
+    <id>https://ly-zhang-yi-hao.github.io/zyh.github.io/2026/11/17/%E8%AE%B0-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%9E%E4%B9%A0/</id>
+    <published>2026-11-16T16:00:00.000Z</published>
+    <updated>2026-11-17T03:55:39.657Z</updated>
+    
+    
+    <summary type="html">记录第一次机器人建图与导航算法工程师实习，从求职、入职到工程实践，以及对成长与工作节奏的思考。</summary>
+    
+    
+    
+    <category term="生活" scheme="https://ly-zhang-yi-hao.github.io/zyh.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="反思" scheme="https://ly-zhang-yi-hao.github.io/zyh.github.io/tags/%E5%8F%8D%E6%80%9D/"/>
+    
+    <category term="实习" scheme="https://ly-zhang-yi-hao.github.io/zyh.github.io/tags/%E5%AE%9E%E4%B9%A0/"/>
+    
+    <category term="SLAM" scheme="https://ly-zhang-yi-hao.github.io/zyh.github.io/tags/SLAM/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2025研究生数学建模竞赛反思</title>
     <link href="https://ly-zhang-yi-hao.github.io/zyh.github.io/2025/09/26/2025%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E5%8F%8D%E6%80%9D/"/>
     <id>https://ly-zhang-yi-hao.github.io/zyh.github.io/2025/09/26/2025%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E5%8F%8D%E6%80%9D/</id>
     <published>2025-09-26T09:44:00.000Z</published>
-    <updated>2025-09-26T13:15:30.625Z</updated>
+    <updated>2025-09-26T13:15:30.000Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;首先自我对这场赛事的定位是：吃老本，拿个国奖，争个一等奖学金。&lt;/p&gt;</summary>
@@ -46,7 +69,7 @@
     <link href="https://ly-zhang-yi-hao.github.io/zyh.github.io/2025/09/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
     <id>https://ly-zhang-yi-hao.github.io/zyh.github.io/2025/09/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
     <published>2025-09-15T12:45:47.000Z</published>
-    <updated>2025-09-15T12:46:23.993Z</updated>
+    <updated>2025-09-15T12:46:23.000Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;欢迎来到我的博客&quot;&gt;&lt;a href=&quot;#欢迎来到我的博客&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到我的博客&quot;&gt;&lt;/a&gt;欢迎来到我的博客&lt;/h2&gt;&lt;p&gt;这是我使用 Hexo + Typography 主题搭建的个人博客的第一篇文章。&lt;/p&gt;
